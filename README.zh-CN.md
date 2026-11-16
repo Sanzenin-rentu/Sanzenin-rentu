@@ -1,6 +1,6 @@
 <div align="center">
 
-# 你好，我是 Sanzenin-rentu 👋
+# 你好，我是三千院 👋
 
 **前端工程师，专注用户增长体验，探索 AI 应用。**
 

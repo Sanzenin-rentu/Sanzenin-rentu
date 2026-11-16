@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sanzenin-rentu 👋
+# Hi, I'm Sanzenin 👋
 
 **Frontend engineer building growth experiences and exploring AI applications.**
 
